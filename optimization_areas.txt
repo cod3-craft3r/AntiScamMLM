@@ -1,0 +1,13 @@
+ticket `add member`: -
+	1. there's no back button
+	2. there's no warning if the member already exists
+
+ticket `add referal`: -
+	1. apparantly, there's no member name field
+	2. and there's some issue with the alert, it always says that 'user already exists'
+
+add_referal:
+	another approach  would be to have a row in DB to denote current no. of referals & thus querying that would reduce overhead.
+	
+	what's the hp produced by the plane's engines?
+	can a pushback tug also pull a plane?
