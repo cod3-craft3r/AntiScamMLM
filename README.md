@@ -1,1 +1,2 @@
 # AntiScamMLM
+Multi-level marketing schemes can easily lead to scams and Ponzi schemes. Even when monitored they tend to benefit those at the top of the pyramid and the bottom-feeders almost always seem to lose. This MLM implementation is a back-end API that can be used to automatically fix the pyramid by eliminating the top-feeders after certain conditions are met so that the bottom ones can rise up.
